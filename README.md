@@ -11,6 +11,10 @@ Cursos :
 Em Atibaia SP
 Ùnidade Carmine Biagio Tundisi Atibaia SP
 
+*Ciẽncias da Computação UFLA universidade Federal de Lavras*
+Em Lavras MG
+Ùnidade Lavras MG
+
 EXperiencias Profissionais: 
 
 6 meses Construtura remo 
