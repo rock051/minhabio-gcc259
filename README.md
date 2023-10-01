@@ -1,7 +1,8 @@
 # minhabio-gcc259
 Atividade 1 sobre git desenvolvimento de software Livre
 
-# **Fernando Maurício Roque**
+# Fernando Maurício Roque
+
 Endereço: Alojamento Estudantil UFLA Ap 107 Bloco 2
 Lavras MG Cep :37200 900
 
