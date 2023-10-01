@@ -5,16 +5,20 @@ Atividade 1 sobre git desenvolvimento de software Livre
 
 [foto Perfil](eu.jpeg)
 
-Endereço: *Alojamento Estudantil UFLA* Ap 107 Bloco 2
+Endereço: *Alojamento Estudantil UFLA* 
+Apartamento: 107 Bloco: 2
 Lavras MG Cep :37200 900
 
 ## Cursos :
- * **Tecnico Em Administração ETEC Paula Souza** 
+ * **Tecnico Em Administração ETEC Paula Souza**
+
 Cidade: Atibaia SP
 
 Únidade: Carmine Biagio Tundisi Atibaia SP
 
-* **Ciẽncias da Computação UFLA universidade Federal de Lavras**
+## Cursando:
+
+* **Ciências da Computação UFLA Universidade Federal de Lavras**
 
 Cidade: Lavras MG
 
@@ -29,6 +33,7 @@ Cidade: Atibaia SP
 10 anos *Prefeitura Municipal de Bom Jesus dos Perdões*
 
 Cidade: Bom Jesus dos Perdões Sp
+
 
 
 
