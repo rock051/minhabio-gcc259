@@ -26,11 +26,11 @@ Cidade: Lavras MG
 
 ## Experiencias Profissionais: 
 
-6 meses Construtura *Remo*
+* 6 meses Construtura *Remo*
 
 Cidade: Atibaia SP
 
-10 anos *Prefeitura Municipal de Bom Jesus dos Perdões*
+* 10 anos *Prefeitura Municipal de Bom Jesus dos Perdões*
 
 Cidade: Bom Jesus dos Perdões Sp
 
